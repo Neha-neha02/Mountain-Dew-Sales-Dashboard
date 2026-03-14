@@ -1,0 +1,193 @@
+Brand,Year,Month,Region,Sales_Channel,Units_Sold,Price_INR,Revenue_INR,Profit_INR
+Mountain Dew,2024,Jan,Delhi,Convenience Store,4235,40,169400,49106
+Mountain Dew,2024,Jan,Mumbai,Supermarket,14955,45,672975,115760
+Mountain Dew,2024,Jan,Jaipur,Supermarket,8225,40,329000,68493
+Mountain Dew,2024,Jan,Lucknow,Online,7462,45,335790,77507
+Mountain Dew,2024,Jan,Bangalore,Online,6962,40,278480,50312
+Mountain Dew,2024,Jan,Kolkata,Supermarket,8764,45,394380,90771
+Mountain Dew,2024,Jan,Hyderabad,Online,12151,45,546795,117344
+Mountain Dew,2024,Jan,Chandigarh,Convenience Store,5888,50,294400,79520
+Mountain Dew,2024,Feb,Delhi,Convenience Store,5031,45,226395,57470
+Mountain Dew,2024,Feb,Mumbai,Online,12920,45,581400,111022
+Mountain Dew,2024,Feb,Jaipur,Convenience Store,4542,50,227100,66695
+Mountain Dew,2024,Feb,Lucknow,Supermarket,11108,40,444320,87676
+Mountain Dew,2024,Feb,Bangalore,Distributor,7098,40,283920,60157
+Mountain Dew,2024,Feb,Kolkata,Distributor,4015,40,160600,42113
+Mountain Dew,2024,Feb,Hyderabad,Online,11906,50,595300,95846
+Mountain Dew,2024,Feb,Chandigarh,Supermarket,7047,50,352350,68062
+Mountain Dew,2024,Mar,Delhi,Online,4155,45,186975,30391
+Mountain Dew,2024,Mar,Mumbai,Distributor,4648,40,185920,35293
+Mountain Dew,2024,Mar,Jaipur,Supermarket,5679,45,255555,61867
+Mountain Dew,2024,Mar,Lucknow,Distributor,5214,50,260700,48138
+Mountain Dew,2024,Mar,Bangalore,Distributor,8791,45,395595,100544
+Mountain Dew,2024,Mar,Kolkata,Online,6944,40,277760,73557
+Mountain Dew,2024,Mar,Hyderabad,Distributor,8565,50,428250,115139
+Mountain Dew,2024,Mar,Chandigarh,Supermarket,4715,45,212175,36201
+Mountain Dew,2024,Apr,Delhi,Distributor,5067,40,202680,41881
+Mountain Dew,2024,Apr,Mumbai,Supermarket,13991,45,629595,182032
+Mountain Dew,2024,Apr,Jaipur,Online,11676,50,583800,143425
+Mountain Dew,2024,Apr,Lucknow,Convenience Store,10423,40,416920,101541
+Mountain Dew,2024,Apr,Bangalore,Supermarket,4152,50,207600,54907
+Mountain Dew,2024,Apr,Kolkata,Convenience Store,7212,45,324540,69520
+Mountain Dew,2024,Apr,Hyderabad,Online,4152,50,207600,46651
+Mountain Dew,2024,Apr,Chandigarh,Supermarket,13948,50,697400,151675
+Mountain Dew,2024,May,Delhi,Distributor,14066,50,703300,130500
+Mountain Dew,2024,May,Mumbai,Convenience Store,14416,50,720800,108430
+Mountain Dew,2024,May,Jaipur,Online,14410,40,576400,136488
+Mountain Dew,2024,May,Lucknow,Convenience Store,10629,45,478305,97378
+Mountain Dew,2024,May,Bangalore,Distributor,9813,40,392520,86397
+Mountain Dew,2024,May,Kolkata,Distributor,10461,40,418440,106130
+Mountain Dew,2024,May,Hyderabad,Convenience Store,11264,45,506880,111955
+Mountain Dew,2024,May,Chandigarh,Distributor,9006,45,405270,103150
+Mountain Dew,2024,Jun,Delhi,Distributor,7718,45,347310,78574
+Mountain Dew,2024,Jun,Mumbai,Convenience Store,9656,45,434520,98996
+Mountain Dew,2024,Jun,Jaipur,Convenience Store,11493,40,459720,70765
+Mountain Dew,2024,Jun,Lucknow,Convenience Store,6267,45,282015,54515
+Mountain Dew,2024,Jun,Bangalore,Supermarket,9582,45,431190,82679
+Mountain Dew,2024,Jun,Kolkata,Online,9354,45,420930,100124
+Mountain Dew,2024,Jun,Hyderabad,Online,8509,45,382905,98639
+Mountain Dew,2024,Jun,Chandigarh,Convenience Store,9588,40,383520,100781
+Mountain Dew,2024,Jul,Delhi,Online,4668,50,233400,47680
+Mountain Dew,2024,Jul,Mumbai,Supermarket,11498,40,459920,72061
+Mountain Dew,2024,Jul,Jaipur,Convenience Store,9716,45,437220,112342
+Mountain Dew,2024,Jul,Lucknow,Convenience Store,4832,40,193280,32754
+Mountain Dew,2024,Jul,Bangalore,Distributor,10932,40,437280,83606
+Mountain Dew,2024,Jul,Kolkata,Distributor,11955,50,597750,173829
+Mountain Dew,2024,Jul,Hyderabad,Online,5455,50,272750,50725
+Mountain Dew,2024,Jul,Chandigarh,Distributor,8196,40,327840,97454
+Mountain Dew,2024,Aug,Delhi,Distributor,14469,50,723450,116116
+Mountain Dew,2024,Aug,Mumbai,Online,14319,45,644355,140657
+Mountain Dew,2024,Aug,Jaipur,Supermarket,13954,50,697700,157902
+Mountain Dew,2024,Aug,Lucknow,Distributor,7572,50,378600,83035
+Mountain Dew,2024,Aug,Bangalore,Convenience Store,8561,40,342440,70375
+Mountain Dew,2024,Aug,Kolkata,Online,10602,45,477090,78392
+Mountain Dew,2024,Aug,Hyderabad,Supermarket,6288,40,251520,47549
+Mountain Dew,2024,Aug,Chandigarh,Distributor,12809,50,640450,185507
+Mountain Dew,2024,Sep,Delhi,Distributor,6832,45,307440,74859
+Mountain Dew,2024,Sep,Mumbai,Distributor,8975,50,448750,116791
+Mountain Dew,2024,Sep,Jaipur,Distributor,11871,45,534195,154807
+Mountain Dew,2024,Sep,Lucknow,Distributor,14072,40,562880,136507
+Mountain Dew,2024,Sep,Bangalore,Distributor,10727,40,429080,123909
+Mountain Dew,2024,Sep,Kolkata,Online,8601,50,430050,83505
+Mountain Dew,2024,Sep,Hyderabad,Distributor,10045,40,401800,93391
+Mountain Dew,2024,Sep,Chandigarh,Distributor,6486,40,259440,53251
+Mountain Dew,2024,Oct,Delhi,Distributor,12090,40,483600,85158
+Mountain Dew,2024,Oct,Mumbai,Distributor,12829,40,513160,115896
+Mountain Dew,2024,Oct,Jaipur,Convenience Store,4624,45,208080,61216
+Mountain Dew,2024,Oct,Lucknow,Convenience Store,6219,50,310950,54860
+Mountain Dew,2024,Oct,Bangalore,Convenience Store,9428,45,424260,120003
+Mountain Dew,2024,Oct,Kolkata,Supermarket,14578,50,728900,148103
+Mountain Dew,2024,Oct,Hyderabad,Supermarket,12734,40,509360,78228
+Mountain Dew,2024,Oct,Chandigarh,Distributor,12262,40,490480,99049
+Mountain Dew,2024,Nov,Delhi,Convenience Store,11919,40,476760,106573
+Mountain Dew,2024,Nov,Mumbai,Supermarket,7236,50,361800,86478
+Mountain Dew,2024,Nov,Jaipur,Convenience Store,8345,50,417250,116650
+Mountain Dew,2024,Nov,Lucknow,Online,10825,45,487125,115292
+Mountain Dew,2024,Nov,Bangalore,Supermarket,8946,50,447300,70712
+Mountain Dew,2024,Nov,Kolkata,Online,11280,40,451200,94712
+Mountain Dew,2024,Nov,Hyderabad,Convenience Store,10356,45,466020,138181
+Mountain Dew,2024,Nov,Chandigarh,Online,12405,45,558225,134368
+Mountain Dew,2024,Dec,Delhi,Distributor,8944,40,357760,87369
+Mountain Dew,2024,Dec,Mumbai,Supermarket,10541,45,474345,120780
+Mountain Dew,2024,Dec,Jaipur,Distributor,9138,45,411210,110372
+Mountain Dew,2024,Dec,Lucknow,Supermarket,5582,40,223280,44299
+Mountain Dew,2024,Dec,Bangalore,Supermarket,6559,45,295155,60203
+Mountain Dew,2024,Dec,Kolkata,Supermarket,12907,50,645350,148269
+Mountain Dew,2024,Dec,Hyderabad,Supermarket,11061,50,553050,118649
+Mountain Dew,2024,Dec,Chandigarh,Online,7621,45,342945,86663
+Mountain Dew,2025,Jan,Delhi,Online,5803,50,290150,58465
+Mountain Dew,2025,Jan,Mumbai,Convenience Store,6148,40,245920,46855
+Mountain Dew,2025,Jan,Jaipur,Online,10010,40,400400,91754
+Mountain Dew,2025,Jan,Lucknow,Convenience Store,13892,50,694600,112894
+Mountain Dew,2025,Jan,Bangalore,Online,13830,50,691500,105728
+Mountain Dew,2025,Jan,Kolkata,Convenience Store,4814,45,216630,53170
+Mountain Dew,2025,Jan,Hyderabad,Online,13099,45,589455,95458
+Mountain Dew,2025,Jan,Chandigarh,Distributor,9256,40,370240,103579
+Mountain Dew,2025,Feb,Delhi,Supermarket,10594,40,423760,99763
+Mountain Dew,2025,Feb,Mumbai,Supermarket,8753,50,437650,124984
+Mountain Dew,2025,Feb,Jaipur,Online,11045,45,497025,97834
+Mountain Dew,2025,Feb,Lucknow,Online,13814,40,552560,121597
+Mountain Dew,2025,Feb,Bangalore,Online,12023,50,601150,107572
+Mountain Dew,2025,Feb,Kolkata,Supermarket,11880,40,475200,71915
+Mountain Dew,2025,Feb,Hyderabad,Supermarket,12345,45,555525,154297
+Mountain Dew,2025,Feb,Chandigarh,Online,13078,50,653900,121004
+Mountain Dew,2025,Mar,Delhi,Supermarket,14592,40,583680,100918
+Mountain Dew,2025,Mar,Mumbai,Online,8602,50,430100,74593
+Mountain Dew,2025,Mar,Jaipur,Supermarket,7717,40,308680,53001
+Mountain Dew,2025,Mar,Lucknow,Distributor,7820,40,312800,62139
+Mountain Dew,2025,Mar,Bangalore,Distributor,13107,45,589815,136109
+Mountain Dew,2025,Mar,Kolkata,Online,6172,50,308600,84544
+Mountain Dew,2025,Mar,Hyderabad,Supermarket,14962,50,748100,117524
+Mountain Dew,2025,Mar,Chandigarh,Online,9841,50,492050,103795
+Mountain Dew,2025,Apr,Delhi,Convenience Store,14459,45,650655,172772
+Mountain Dew,2025,Apr,Mumbai,Online,10151,50,507550,95703
+Mountain Dew,2025,Apr,Jaipur,Online,11713,45,527085,119595
+Mountain Dew,2025,Apr,Lucknow,Distributor,5033,50,251650,74287
+Mountain Dew,2025,Apr,Bangalore,Convenience Store,13808,40,552320,127715
+Mountain Dew,2025,Apr,Kolkata,Online,9085,50,454250,81973
+Mountain Dew,2025,Apr,Hyderabad,Online,7036,40,281440,64439
+Mountain Dew,2025,Apr,Chandigarh,Convenience Store,12255,45,551475,84890
+Mountain Dew,2025,May,Delhi,Distributor,9624,40,384960,59499
+Mountain Dew,2025,May,Mumbai,Distributor,9052,50,452600,114798
+Mountain Dew,2025,May,Jaipur,Distributor,13819,40,552760,131134
+Mountain Dew,2025,May,Lucknow,Online,9694,50,484700,89092
+Mountain Dew,2025,May,Bangalore,Convenience Store,7222,45,324990,71025
+Mountain Dew,2025,May,Kolkata,Online,7478,40,299120,65767
+Mountain Dew,2025,May,Hyderabad,Online,9094,50,454700,88484
+Mountain Dew,2025,May,Chandigarh,Online,4052,50,202600,33083
+Mountain Dew,2025,Jun,Delhi,Distributor,5491,45,247095,64857
+Mountain Dew,2025,Jun,Mumbai,Distributor,8438,40,337520,91330
+Mountain Dew,2025,Jun,Jaipur,Online,14027,50,701350,204887
+Mountain Dew,2025,Jun,Lucknow,Distributor,5547,45,249615,63442
+Mountain Dew,2025,Jun,Bangalore,Online,14070,45,633150,155164
+Mountain Dew,2025,Jun,Kolkata,Supermarket,5133,50,256650,66821
+Mountain Dew,2025,Jun,Hyderabad,Supermarket,6923,40,276920,75506
+Mountain Dew,2025,Jun,Chandigarh,Supermarket,7425,50,371250,63674
+Mountain Dew,2025,Jul,Delhi,Convenience Store,12206,40,488240,123037
+Mountain Dew,2025,Jul,Mumbai,Online,5368,45,241560,49315
+Mountain Dew,2025,Jul,Jaipur,Online,10677,40,427080,89356
+Mountain Dew,2025,Jul,Lucknow,Convenience Store,13362,45,601290,178776
+Mountain Dew,2025,Jul,Bangalore,Supermarket,8676,45,390420,105598
+Mountain Dew,2025,Jul,Kolkata,Distributor,8871,50,443550,68998
+Mountain Dew,2025,Jul,Hyderabad,Online,12354,40,494160,127425
+Mountain Dew,2025,Jul,Chandigarh,Online,14669,50,733450,140897
+Mountain Dew,2025,Aug,Delhi,Convenience Store,12924,45,581580,99935
+Mountain Dew,2025,Aug,Mumbai,Convenience Store,9121,45,410445,113147
+Mountain Dew,2025,Aug,Jaipur,Convenience Store,12603,50,630150,188095
+Mountain Dew,2025,Aug,Lucknow,Online,13214,45,594630,170298
+Mountain Dew,2025,Aug,Bangalore,Distributor,10172,50,508600,89520
+Mountain Dew,2025,Aug,Kolkata,Convenience Store,8162,40,326480,56160
+Mountain Dew,2025,Aug,Hyderabad,Distributor,9120,45,410400,80679
+Mountain Dew,2025,Aug,Chandigarh,Supermarket,6412,40,256480,69236
+Mountain Dew,2025,Sep,Delhi,Convenience Store,14464,45,650880,186552
+Mountain Dew,2025,Sep,Mumbai,Supermarket,9019,50,450950,70675
+Mountain Dew,2025,Sep,Jaipur,Convenience Store,11486,45,516870,79929
+Mountain Dew,2025,Sep,Lucknow,Supermarket,8454,50,422700,72531
+Mountain Dew,2025,Sep,Bangalore,Convenience Store,8456,45,380520,106135
+Mountain Dew,2025,Sep,Kolkata,Supermarket,5567,45,250515,61187
+Mountain Dew,2025,Sep,Hyderabad,Convenience Store,5679,45,255555,72629
+Mountain Dew,2025,Sep,Chandigarh,Supermarket,7795,40,311800,70962
+Mountain Dew,2025,Oct,Delhi,Supermarket,4798,45,215910,63120
+Mountain Dew,2025,Oct,Mumbai,Supermarket,12531,45,563895,133164
+Mountain Dew,2025,Oct,Jaipur,Supermarket,14104,50,705200,129887
+Mountain Dew,2025,Oct,Lucknow,Online,14624,50,731200,203617
+Mountain Dew,2025,Oct,Bangalore,Online,7221,50,361050,98369
+Mountain Dew,2025,Oct,Kolkata,Distributor,7877,45,354465,99920
+Mountain Dew,2025,Oct,Hyderabad,Online,4069,50,203450,32255
+Mountain Dew,2025,Oct,Chandigarh,Distributor,11207,45,504315,113262
+Mountain Dew,2025,Nov,Delhi,Supermarket,14140,40,565600,134338
+Mountain Dew,2025,Nov,Mumbai,Online,11184,50,559200,121847
+Mountain Dew,2025,Nov,Jaipur,Distributor,4699,45,211455,55954
+Mountain Dew,2025,Nov,Lucknow,Distributor,10006,45,450270,73860
+Mountain Dew,2025,Nov,Bangalore,Distributor,6203,45,279135,57589
+Mountain Dew,2025,Nov,Kolkata,Convenience Store,14081,45,633645,167992
+Mountain Dew,2025,Nov,Hyderabad,Supermarket,10059,45,452655,110321
+Mountain Dew,2025,Nov,Chandigarh,Convenience Store,6485,50,324250,96322
+Mountain Dew,2025,Dec,Delhi,Convenience Store,7967,40,318680,70203
+Mountain Dew,2025,Dec,Mumbai,Distributor,12933,45,581985,115230
+Mountain Dew,2025,Dec,Jaipur,Supermarket,5591,40,223640,66888
+Mountain Dew,2025,Dec,Lucknow,Supermarket,5340,50,267000,53615
+Mountain Dew,2025,Dec,Bangalore,Convenience Store,10362,40,414480,77918
+Mountain Dew,2025,Dec,Kolkata,Distributor,11888,45,534960,105320
+Mountain Dew,2025,Dec,Hyderabad,Distributor,10110,40,404400,113499
+Mountain Dew,2025,Dec,Chandigarh,Online,12289,45,553005,154529
