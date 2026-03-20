@@ -18,5 +18,7 @@ The dashboard provides insights into:
 - Region-wise sales performance
 - Brand-wise sales comparison
 
+  ![Mountain Dew Sales Analysis Dashboard](m.dew.png)
+
 ## Author
 Neha
